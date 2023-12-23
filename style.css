@@ -395,7 +395,7 @@ section.videoAndText{
     width:400px;
 }
     .videoText{
-        font-size: 0.8em;
+        font-size: 1em;
         margin:1em 0 0 4em;
     }
 
@@ -411,6 +411,7 @@ section.videoAndText{
     }
     .blog>.ccParagraph>p{
         margin: 6rem 1rem 0 6rem;
+        font-size: 1em;
     }
     .five>h3{
         font-size: 1.4em;
