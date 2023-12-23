@@ -352,6 +352,8 @@ footer{
         margin-left: -3em;
     }
 img.logo{
+    height: 5em;
+    width:17%;
     margin: -4em 0 0 -1em;
 }
     img.yarnMainPhoto{
