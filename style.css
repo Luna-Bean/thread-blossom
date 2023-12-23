@@ -35,7 +35,7 @@ margin: -4em 0 0 0;
 }
 
 
-img.yarnTypes,img.socialMedia,img.ccImage,img.shopNow,img.slideshowImage{
+img.yarnMainPhoto,img.yarnTypes,img.socialMedia,img.ccImage,img.shopNow,img.slideshowImage{
     width: 150px;
     -webkit-filter: drop-shadow(5px 5px 5px #222);
     filter: drop-shadow(5px 5px 5px #222);
@@ -349,12 +349,16 @@ footer{
         margin:-1em 0
     }
     nav>ul{
-        margin-left: -3em;
+        margin-left: 1em;
+        margin-top: 1.8em;
+    }
+    nav>ul>li{
+        font-size: 0.7em;
     }
 img.logo{
-    height: 9em;
-    width:17%;
-    margin: -4em 0 0 -1em;
+    height: 13em;
+    width:22%;
+    margin: -5em 0 0 -1em;
 }
     img.yarnMainPhoto{
         margin: 3rem 12rem;
