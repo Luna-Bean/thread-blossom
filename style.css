@@ -348,7 +348,12 @@ footer{
     nav{
         margin:-1em 0
     }
-
+    nav>ul{
+        margin-left: -3em;
+    }
+img.logo{
+    margin: -4em 0 0 -1em;
+}
     img.yarnMainPhoto{
         margin: 3rem 12rem;
     }
@@ -443,7 +448,7 @@ section.videoAndText{
 }
 
 
-@media screen and (max-width: 1024px){
+/* @media screen and (max-width: 1024px){
     nav{
         margin: 0em
     }
@@ -508,4 +513,4 @@ section.videoAndText{
     .slideshowDot{
         margin-left: 6em;
 }
-}
+} */
